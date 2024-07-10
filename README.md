@@ -13,9 +13,6 @@ Although BuildHub is still in the development phase, we have a clear vision for 
 ### Project Creation and Management
 BuildHub will allow users to create detailed profiles for their projects. 📄 Creators can add comprehensive descriptions, upload images, and select relevant tags. These profiles will help attract interest and support from potential backers and collaborators.
 
-### Tag Management
-Projects can be organized using both preset and user-generated tags. 🏷️ This feature ensures easy discovery and accurate categorization, making it simple for users to find projects that match their interests.
-
 ### Collaboration Tools
 One of the core aspects of BuildHub is fostering collaboration. 🤝 Users will be able to find and connect with potential collaborators and contributors, enhancing the potential for project success. This feature aims to build a community of like-minded individuals working together on exciting ventures.
 
